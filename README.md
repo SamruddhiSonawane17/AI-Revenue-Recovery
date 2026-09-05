@@ -186,7 +186,7 @@ AI-Revenue-Recovery/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone git clone https://github.com/SamruddhiSonawane17/AI-Revenue-Recovery.git
 cd AI-Revenue-Recovery
 2. Install Frontend Dependencies
 cd frontend
